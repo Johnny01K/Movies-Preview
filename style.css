@@ -1,0 +1,84 @@
+body{
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(27, 27, 27);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family:sans-serif;
+}
+
+header p{
+    margin-left: 330px;
+}
+
+header div{
+    background-color: rgb(17, 17, 17);
+}
+
+#header{
+    background-color: rgb(41, 143, 41);
+    border-radius: 50%;
+}
+
+header ul li{
+    margin-left: 190px;
+}
+
+header li a{
+    color: rgb(10, 190, 10);
+    text-decoration: none;
+}
+
+header li a:hover{
+    color: rgb(108, 212, 108);
+}
+
+.menu img:hover{
+    opacity: calc(85%);
+}
+
+.img {
+    background-color: rgb(19, 218, 36);
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(255, 255, 255);
+    width: 48.7%;
+    height: 24.1vh;
+    margin: auto;
+}
+
+.menu button{
+    background-color: rgb(70, 107, 40);
+    font-family: fantasy;
+    color: rgb(50, 209, 19);
+    border-radius: 10%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    height: 32px;
+    width: 90px;
+    margin-left: 350px;
+}
+
+.menu p{
+    text-align: center;
+}
+
+.menu h2{
+    text-align: center;
+}
+
+.menu div{
+    background-color: rgb(17, 17, 17);
+}
+
+
+.menu button:hover{
+    background-color: greenyellow;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
